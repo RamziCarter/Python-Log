@@ -1,4 +1,6 @@
 ### Welcome 
+
+> 24 days to learn python as a "Beginner" starting 12/3/22
 ---
 Day 1 Hour 0
 
