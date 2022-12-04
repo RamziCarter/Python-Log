@@ -6,6 +6,6 @@ Day 1 Hour 0
 * Manny 12/3 refreshing start
 
 [Recommended video for the day](https://www.youtube.com/watch?v=azcrPFhaY9k "Click the link NOW!!!!!!")
-[TikTok video of the day](https://ww.tiktok.com/t/ZTR45P62F/ "Watch by 10:00pm!!")
+[TikTok video of the day](https://www.tiktok.com/t/ZTR45P62F/ "Watch by 10:00pm!!")
 ---
 
