@@ -14,3 +14,9 @@ Day 1 Hour 0
 
 ---
 
+Day 2 Hour 1
+
+* Today we did not work on python, due to family obligtions. Reconvene tomorrow 
+* No recommended video for today either
+
+---
