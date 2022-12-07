@@ -31,7 +31,8 @@ Day 3 Hour 2
 
 Day 4 Hour 3 (12/6/22)
 
-Ramzi and Manny Collaborate on python development
+* Ramzi and Manny Collaborate on python development
+* Manny 12/6
 
 [Learning to code in Python ](https://www.youtube.com/watch?v=IUZTbEaDo0U "This is inspirational")
 
