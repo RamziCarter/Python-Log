@@ -29,7 +29,7 @@ Day 3 Hour 2
 
 ---
 
-Day 4 Hour 3
+Day 4 Hour 3 (12/6/22)
 
 Ramzi and Manny Collaborate on python development
 
