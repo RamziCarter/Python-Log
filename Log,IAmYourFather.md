@@ -21,8 +21,19 @@ Day 2 Hour 1
 
 ---
 
-Day 3 Hour 1
+Day 3 Hour 2
 
 (Manny) 12/5
-*Did about 1 hour of refresh, up to math functions now!
-*No recommended video
+* Did about 1 hour of refresh, up to math functions now!
+* No recommended video
+
+---
+
+Day 4 Hour 3
+
+Ramzi and Manny Collaborate on python development
+
+[Learning to code in Python ](https://www.youtube.com/watch?v=IUZTbEaDo0U "This is inspirational")
+
+
+---
