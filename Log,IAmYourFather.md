@@ -38,3 +38,12 @@ Day 4 Hour 3 (12/6/22)
 
 
 ---
+
+Day 5 Hour 3 (12/15/22)
+
+Took a break, due to other responsibilities
+Tomorrow hit the ground ruinning with python, java, c++
+Send recruiter resume, set up hacker rank account
+
+
+---
